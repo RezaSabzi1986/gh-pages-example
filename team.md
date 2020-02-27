@@ -3,14 +3,14 @@ layout: default
 title: Team
 ---
 
-# Person A
+# Person Reza
 
-Short bio ...
+I am doing me PhD in the signal processing group in IES department.
 
 
-# Person B
+# Person Bob
 
-Short bio ...
+He is currently unemployed.
 
 
 # Person C

@@ -5,7 +5,7 @@ title: Example
 
 # Example project
 
-- [About the project](about)
+- [About the project](This project was superb:D )
 - [Publications](publications)
 - [Team](team)
 
