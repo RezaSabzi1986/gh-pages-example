@@ -3,12 +3,12 @@ layout: default
 title: Team
 ---
 
-# Person Reza
+# Reza
 
 I am doing me PhD in the signal processing group in IES department.
 
 
-# Person Bob
+# Bob
 
 He is currently unemployed.
 
