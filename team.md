@@ -15,4 +15,4 @@ He is currently unemployed.
 
 # Person C
 
-Short bio ...
+This is an inline equation embedded :math:`a^2 + b^2 = c^2` in text.
